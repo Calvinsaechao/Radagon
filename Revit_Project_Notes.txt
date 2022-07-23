@@ -1,0 +1,37 @@
+CreateSheetsCommand.cs
+	- make more robust
+	- include/update ref string message when returning Result.Failed/Cancelled
+
+EditSelectViewportLocationsCommand (currently just a copy of EditViewportLocationsCommand)
+	- Allow selection of specific viewports (from document or a subset from xlsx file?)
+	- prompt user for a single X, Y to apply to all viewports selected
+	- use the same form as editviewportlocationscommand
+	
+	- HANDLE ERROR: trying to edit sheet viewports when it hasn't been imported yet via excel file
+	
+	
+Create a category of commands that deal with a XLSX file?
+	
+Duplicate Views
+	- When renaming names, must be unique otherwise fails (maybe check for dupes before continue button can be clicked)
+	
+	
+study java notes oop, etc.
+study javascript DOM, select elements by tag, id, class. events OnClick = "fn()" .style
+
+- reduce difficulty slightly ice world and levels, mb labyrinth too
+	- reduced iceworld already
+- implement way to show instructions when we arrive at the egg (zones)
+- Don't allow players to even press button when they dont meet requirements SHOP
+- Update Product Modules for Charges and Cooldown (use Energy for reference)
+- Remove all commented out PlayerProfile code and unnessesary imports
+- Create Client localscript that inits all monitors
+
+fix afk players
+
+use Q and E for spells
+arrows to show direction (someway to show direction))
+make map selection look better
+find free music finatical (30 free songs)
+controller support for console players
+include large UI for blind people and toggle smaller with a button

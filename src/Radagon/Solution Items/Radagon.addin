@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Radagon</Name>
+		<FullClassName>Radagon.Main</FullClassName>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>C:\Users\Calvin\source\repos\Radagon\src\Radagon\bin\x64\Debug\netstandard2.0\Radagon.dll</Assembly>
+		<AddInId>D829C148-BA27-46A2-A9D8-B4B9259AA74A</AddInId>
+		<VendorId>Calvin Saechao</VendorId>
+		<Publisher>Calvin Saechao</Publisher>
+		<VendorDescription>Description</VendorDescription>
+	</AddIn>
+</RevitAddIns>
